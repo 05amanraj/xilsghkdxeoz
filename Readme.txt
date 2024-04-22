@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Thanks for connecting frntal india!
 
 Template Name: Dewi
-Template URL: https://bootstrapmade.com/dewi-free-multi-purpose-html-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template URL: https://frntal.com/
+Author: amanraj
+License: https:/frntal.com/license/
